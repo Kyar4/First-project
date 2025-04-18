@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "660309932234",
+    "firebase_url": "https://kyaryu-191a2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kyaryu-191a2",
+    "storage_bucket": "kyaryu-191a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660309932234:android:37aaaf41410a5efe945c33",
+        "android_client_info": {
+          "package_name": "com.example.kyaru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4hxFhmVWSTrnB0fcGtxSgHjom2xHYZ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
